@@ -1,9 +1,9 @@
 # HClimRep.ipynb introduction
 
 ## Overview
-HClimRep.ipynb is a Jupyter Notebook dedicated to climate data analysis and forecasting using deep learning techniques. 
+'HClimRep.ipynb' is a Jupyter Notebook dedicated to climate data analysis and forecasting using deep learning techniques. 
 It combines Python's data processing capabilities with advanced machine learning frameworks to model complex climate patterns.
-The notebook uses TensorFlow and Keras for building neural networks, enabling researchers to explore climate trends, 
+The notebook uses 'TensorFlow' and 'Keras' for building neural networks, enabling researchers to explore climate trends, 
 predict future conditions, and identify anomalies with state-of-the-art deep learning methods.
 
 ## Functional Overview
